@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am Saraswathi Subramanian
 
-<!--
-**Saraswathi-Subramanian/Saraswathi-Subramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Page Object model Test automation framework using Selenium with Java, TestNG and Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a sample project to demonstrate Page Object Model framework and used in selenium to automate an Hubspot application. 
+TestNG is used as test framework. 
+Dependency Java Maven.
+
+###libraries used Selenium TestNG Extent Reports
+
+
+Hey, here is my XING profile: https://www.xing.com/profile/Saraswathi_Subramanian
